@@ -6,7 +6,7 @@ months = "\nJan\nFeb\nMar\nApr\nMay\nJun\nJul\nAug"
 
 #using the , allows for a var to print, similar to () and {}
 print("Here are the days: ", days)
-print(f"Here are the months: ", {months})
+print("Here are the months: ", months) #adding {} prints Var exactly as written
  #unsure what this indicates, but according to a Google search the gorup of 3 " allows for text to go on multiple lines (will print as written) and can function as a docstring
 print("""
 Theres sometheing going on here.
