@@ -13,4 +13,4 @@ Theres sometheing going on here.
 With the three double quotes.
 We'll be able to type as much as we'd like
 Even 4 lines if we want to, or 5, or 6
-""") #removing one set of " results in a syntax arror
+""") #removing one set of " results in a syntax arror, must type with no spaces
